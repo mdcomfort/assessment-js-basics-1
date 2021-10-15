@@ -40,7 +40,7 @@ console.log(numbers)
 
 function bigOrSmall(arr) {
   let answers = []
-  for (let i = 0; i === arr.length - 1; i++) {
+  for (let i = 0; i < arr.length; i++) {
     if (arr[i] > 100) {
       answers.push('big')
     } 
