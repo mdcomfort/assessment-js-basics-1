@@ -41,12 +41,12 @@ console.log(numbers)
 function bigOrSmall(arr) {
   let answers = []
   for (let i = 0; i === arr.length - 1; i++) {
-    if ((arr[i]) > 100) {
+    if (arr[i] > 100) {
       answers.push('big')
     } 
-    else if ((arr[i]) <= 100) {
+    else if (arr[i] <= 100) {
       answers.push('small')
     }
-    }
-    return answers
   }
+  return answers
+}
