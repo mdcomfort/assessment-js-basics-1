@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+let gitDefinition = "Git is a program that allows you to navigate and store files and track the changes made to them."
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = "GitHub is a website that allows you to store git repositories online, making it easy to collaborate and share projects."
 
 //////////////////PROBLEMS 3 - 8////////////////////
 /*
@@ -33,7 +33,7 @@
     following the guidelines above to describe the init command.
 */
 
-//CODE HERE
+let init = {description: "initializes a git repository in the folder you are in", code: "git init"}
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -41,7 +41,7 @@
     following the guidelines above to describe the clone command.
 */
 
-//CODE HERE
+let clone = {description: "creates a clone of a repository", code: "git clone"}
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -49,7 +49,7 @@
     following the guidelines above to describe the status command.
 */
 
-//CODE HERE
+let status = {description: "tells you the status of everything in your repository", code: "git status"}
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -57,7 +57,7 @@
     following the guidelines above to describe the add command.
 */
 
-//CODE HERE
+let add = {description: "adds file(s) to be tracked in the repository", code: "git add"}
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -65,7 +65,7 @@
     following the guidelines above to describe the commit command.
 */
 
-//CODE HERE
+let commit = {description: "saves file changes to git", code: "git commit"}
 
 
 //////////////////PROBLEM 8////////////////////
@@ -74,4 +74,4 @@
     following the guidelines above to describe the push command.
 */
 
-//CODE HERE
+let push = {description: "pushes your git respository to GitHub", code: "git commit"}
