@@ -51,3 +51,5 @@ function bigOrSmall(arr) {
   return answers
 }
 
+let numSize = bigOrSmall([101, 3, 555, 600, 105.5, 0])
+console.log(numSize)
