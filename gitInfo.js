@@ -74,4 +74,4 @@ let commit = {description: "saves file changes to git", code: "git commit"}
     following the guidelines above to describe the push command.
 */
 
-let push = {description: "pushes your git respository to GitHub", code: "git commit"}
+let push = {description: "pushes your git respository to GitHub", code: "git push"}
