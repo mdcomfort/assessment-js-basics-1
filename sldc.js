@@ -18,7 +18,7 @@
 
 */
 
-devPlanning = "Determine system needs, project scope, tech stack, team needs."
+devPlanning = "Determine project scope, team needs, tech stack, any systems needs."
 devRequirements = "Figure out what the software will need to do/features."
 devDesign = "Outline how the software will look and work."
 devImplement = "Create the software."
